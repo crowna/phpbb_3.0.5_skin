@@ -7,7 +7,6 @@
 	
 	Copyright 2006 phpBB Group ( http://www.phpbb.com/ )
     --------------------------------------------------------------
-*/
 
 @import url("common.css");
 @import url("links.css");
@@ -17,3 +16,7 @@
 @import url("forms.css");
 @import url("tweaks.css");
 @import url("colours.css");
+
+*/
+
+@import url("common_giz.css");
