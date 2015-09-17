@@ -41,13 +41,6 @@ body, td, th, p, li, div, input, textarea, a, h1, h2, h3, h4, h5, .popup {
     font-family: "Trebuchet MS",Helvetica,sans-serif;
 }
 
-h1 {
-    /* Forum name */
-    margin-right: 200px;
-    margin-top: 15px;
-    font-weight: bold;
-    font-size: 2em;
-}
 
 h2 {
     /* Forum header titles */
@@ -175,6 +168,8 @@ hr.dashed {
     display: inline;
     margin-right: 0;
 }
+.description{display:none;}
+
 .giz-uadmin{
     background-color: #ccc;
     display: none;
@@ -291,12 +286,6 @@ a#logo:hover {
 
 /* Round cornered boxes and backgrounds
 ---------------------------------------- */
-.headerbar {
-    background: #ebebeb none repeat-x 0 0;
-    color: #FFFFFF;
-    margin-bottom: 4px;
-    padding: 0 5px;
-}
 
 .navbar {
     background-color: #ebebeb;
